@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/language-selection/static/css/main.e5bf96cc.css",
+    "main.js": "/language-selection/static/js/main.de11020a.js",
+    "index.html": "/language-selection/index.html",
+    "main.e5bf96cc.css.map": "/language-selection/static/css/main.e5bf96cc.css.map",
+    "main.de11020a.js.map": "/language-selection/static/js/main.de11020a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5bf96cc.css",
+    "static/js/main.de11020a.js"
+  ]
+}
